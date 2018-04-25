@@ -1109,7 +1109,7 @@
       .bg-azul { background-color: blue; }
       .bg-azulfosfo { background-color: #00a3f8; }
       .bg-facebook { background-color: #3b5998; }
-      .bg-facebook-o scuro {background-color: #17233d; }
+      .bg-facebook-oscuro {background-color: #17233d; }
       .bg-azulmetalico { background-color: steelblue; }
       .bg-azulvibrante { background-color: #33C3F0; }
       .bg-gris { background-color: gray; }
@@ -1146,8 +1146,8 @@
       .text-rosamexicano { color: #ce40aa; }
       .text-azul { color: blue; } 
       .text-azulfosfo { color: #00a3f8; }
-      .text-facebook { background-color: #3b5998; }
-      .text-facebookoscuro { background-color: #17233d; }
+      .text-facebook { color: #3b5998; }
+      .text-facebookoscuro { color: #17233d; }
       .text-azulmetalico { color: steelblue; }
       .text-azulvibrante { color: #33C3F0; }
       .text-gris { color: gray; } 
