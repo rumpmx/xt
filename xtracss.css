@@ -1322,6 +1322,29 @@
   }
   
   /* agrandador de fuentes */
+  
+  .xp1     { font-size: 100%; }
+  .xp1-25  { font-size: 125%; }
+  .xp1-5   { font-size: 150%; }
+  .xp1-75  { font-size: 175%; }
+  .xp2     { font-size: 200%; }
+  .xp2-25  { font-size: 225%; }
+  .xp2-5   { font-size: 250%; }
+  .xp2-75  { font-size: 275%; }
+  .xp3     { font-size: 300%; }
+  .xp3-25  { font-size: 325%; }
+  .xp3-5   { font-size: 350%; }
+  .xp3-75  { font-size: 375%; }
+  .xp4     { font-size: 400%; }
+  .xp4-25  { font-size: 425%; }
+  .xp4-5   { font-size: 450%; }
+  .xp4-75  { font-size: 475%; }
+  .xp5     { font-size: 500%; }
+  .xp5-25  { font-size: 525%; }
+  .xp5-5   { font-size: 550%; }
+  .xp5-75  { font-size: 575%; }
+  .xp6     { font-size: 600%; }
+  
   .x1     { font-size: 1rem; }
   .x1-25  { font-size: 1.25rem; }
   .x1-5   { font-size: 1.5rem; }
@@ -1360,6 +1383,26 @@
   .x9-75  { font-size: 9.75rem; }
   
   /* achicador de fuentes en porcentaje */
+  
+  .xp0-1   { font-size: 10%; }
+  .xp0-15  { font-size: 15%; }
+  .xp0-2   { font-size: 20%; }
+  .xp0-25  { font-size: 25%; }
+  .xp0-3   { font-size: 30%; }
+  .xp0-35  { font-size: 35%; }
+  .xp0-4   { font-size: 40%; }
+  .xp0-45  { font-size: 45%; }
+  .xp0-5   { font-size: 50%; }
+  .xp0-55  { font-size: 55%; }
+  .xp0-6   { font-size: 60%; }
+  .xp0-65  { font-size: 65%; }
+  .xp0-7   { font-size: 70%; }
+  .xp0-75  { font-size: 75%; }
+  .xp0-8   { font-size: 80%; }
+  .xp0-85  { font-size: 85%; }
+  .xp0-9   { font-size: 90%; }
+  .xp0-95  { font-size: 95%; }
+  
   .x0-1   { font-size: 0.1rem; }
   .x0-15  { font-size: 0.15rem; }
   .x0-2   { font-size: 0.2rem; }
