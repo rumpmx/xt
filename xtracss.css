@@ -904,6 +904,37 @@
   .font-italic {
     font-style: italic;
   }
+  
+  .letter-spacing-15 {
+    letter-spacing: 0.15rem;
+  }
+  .letter-spacing-20 {
+    letter-spacing: 0.20rem;
+  }
+  .letter-spacing-30 {
+    letter-spacing: 0.30rem;
+  }
+  .letter-spacing-40 {
+    letter-spacing: 0.40rem;
+  }
+  .letter-spacing-50 {
+    letter-spacing: 0.50rem;
+  }
+  .letter-spacing-60 {
+    letter-spacing: 0.60rem;
+  }
+  .letter-spacing-70 {
+    letter-spacing: 0.70rem;
+  }
+  .letter-spacing-80 {
+    letter-spacing: 0.80rem;
+  }
+  .letter-spacing-90 {
+    letter-spacing: 0.90rem;
+  }
+  .letter-spacing-100 {
+    letter-spacing: 1rem;
+  }
 
   .text-white {
     color: #fff;
