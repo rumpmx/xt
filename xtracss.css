@@ -299,206 +299,6 @@
     transform: scaleX(-1);
   }
 
-/* colors */
-  /*Créditos http://clrs.cc/*/
-  /* Backgrounds */
-    .bg-navy { background-color: #001F3F !important; }
-    .bg-blue { background-color: #0074D9 !important; }
-    .bg-aqua { background-color: #7FDBFF !important; }
-    .bg-teal { background-color: #39CCCC !important; }
-    .bg-olive { background-color: #3D9970 !important; }
-    .bg-green { background-color: #2ECC40 !important; }
-    .bg-lime { background-color: #01FF70 !important; }
-    .bg-yellow { background-color: #FFDC00 !important; }
-    .bg-orange { background-color: #FF851B !important; }
-    .bg-red { background-color: #FF4136 !important; }
-    .bg-fuchsia { background-color: #F012BE !important; }
-    .bg-purple { background-color: #B10DC9 !important; }
-    .bg-maroon { background-color: #85144B !important; }
-    .bg-white { background-color: #FFFFFF !important; }
-    .bg-gray { background-color: #AAAAAA !important; }
-    .bg-silver { background-color: #DDDDDD !important; }
-    .bg-black { background-color: #111111 !important; }
-    /* más */
-      .bg-blanco { background-color: white !important; }
-      .bg-negro { background-color: black !important; }
-      .bg-rojo { background-color: red !important; }
-      .bg-verde { background-color: green !important; }
-      .bg-amarillo { background-color: yellow !important; }
-      .bg-naranja { background-color: orange !important; }
-      .bg-verdefosfo { background-color: #22fd00 !important; }
-      .bg-rosa { background-color: pink !important; }
-      .bg-morado { background-color: purple !important; }
-      .bg-moradoclaro { background-color: darkorchid !important; }
-      .bg-marron { background-color: #690100 !important; }
-      .bg-rosamexicano { background-color: #ce40aa !important; }
-      .bg-azul { background-color: blue !important; }
-      .bg-azulfosfo { background-color: #00a3f8 !important; }
-      .bg-facebook { background-color: #3b5998 !important; }
-      .bg-facebook-oscuro {background-color: #17233d !important; }
-      .bg-azulmetalico { background-color: steelblue !important; }
-      .bg-azulvibrante { background-color: #33C3F0 !important; }
-      .bg-gris { background-color: gray !important; }
-      .bg-grisclaro { background-color: lightgray !important; }
-  
-  /* Colors */
-    .text-navy { color: #001F3F !important; }
-    .text-blue { color: #0074D9 !important; }
-    .text-aqua { color: #7FDBFF !important; }
-    .text-teal { color: #39CCCC !important; }
-    .text-olive { color: #3D9970 !important; }
-    .text-green { color: #2ECC40 !important; }
-    .text-lime { color: #01FF70 !important; }
-    .text-yellow { color: #FFDC00 !important; }
-    .text-orange { color: #FF851B !important; }
-    .text-red { color: #FF4136 !important; }
-    .text-fuchsia { color: #F012BE !important; }
-    .text-purple { color: #B10DC9 !important; }
-    .text-maroon { color: #85144B !important; }
-    .text-white { color: #FFFFFF !important; }
-    .text-silver { color: #DDDDDD !important; }
-    .text-gray { color: #AAAAAA !important; }
-    .text-black { color: #111111 !important; }
-    /* más */
-      .text-rojo { color: red !important; } 
-      .text-verde { color: green !important; } 
-      .text-amarillo { color: yellow !important; } 
-      .text-naranja { color: orange !important; } 
-      .text-verdefosfo { color: #22fd00 !important; }
-      .text-rosa { color: pink !important; } 
-      .text-morado { color: purple !important; } 
-      .text-moradoclaro { color: darkorchid !important; }
-      .text-marron { color: #690100 !important; } 
-      .text-rosamexicano { color: #ce40aa !important; }
-      .text-azul { color: blue !important; } 
-      .text-azulfosfo { color: #00a3f8 !important; }
-      .text-facebook { color: #3b5998 !important; }
-      .text-facebookoscuro { color: #17233d !important; }
-      .text-azulmetalico { color: steelblue !important; }
-      .text-azulvibrante { color: #33C3F0 !important; }
-      .text-gris { color: gray !important; } 
-      .text-grisclaro { color: lightgray !important; }
-  
-  /* Border colors */
-    .border--navy { border-color: #001F3F !important; }
-    .border--blue { border-color: #0074D9 !important; }
-    .border--aqua { border-color: #7FDBFF !important; }
-    .border--teal { border-color: #39CCCC !important; }
-    .border--olive { border-color: #3D9970 !important; }
-    .border--green { border-color: #2ECC40 !important; }
-    .border--lime { border-color: #01FF70 !important; }
-    .border--yellow { border-color: #FFDC00 !important; }
-    .border--orange { border-color: #FF851B !important; }
-    .border--red { border-color: #FF4136 !important; }
-    .border--fuchsia { border-color: #F012BE !important; }
-    .border--purple { border-color: #B10DC9 !important; }
-    .border--maroon { border-color: #85144B !important; }
-    .border--white { border-color: #FFFFFF !important; }
-    .border--gray { border-color: #AAAAAA !important; }
-    .border--silver { border-color: #DDDDDD !important; }
-    .border--black { border-color: #111111 !important; }
-    /* más */
-      .border--blanco { border-color: white !important; }
-      .border--negro { border-color: black !important; }
-      .border--rojo { border-color: red !important; }
-      .border--verde { border-color: green !important; }
-      .border--amarillo { border-color: yellow !important; }
-      .border--naranja { border-color: orange !important; }
-      .border--verdefosfo { background-border: #22fd00 !important; }
-      .border--rosa { border-color: pink !important; }
-      .border--morado { border-color: purple !important; }
-      .border--moradoclaro { border-color: darkorchid !important; }
-      .border--marron { border-color: #690100 !important; }
-      .border--rosamexicano { border-color: #ce40aa !important; }
-      .border--azul { border-color: blue !important; }
-      .border--azulfosfo { border-color: #00a3f8 !important; }
-      .border--facebook { border-color: #3b5998 !important; }
-      .border--facebookoscuro { border-color: #17233d !important; }
-      .border--azulmetalico { border-color: steelblue !important; }
-      .border--azulvibrante { border-color: #33C3F0 !important; }
-      .border--gris { border-color: gray !important; }
-      .border--grisclaro { border-color: lightgray !important; }
-  
-  /* Fills for SVG */
-    .fill-navy { fill: #001F3F !important; }
-    .fill-blue { fill: #0074D9 !important; }
-    .fill-aqua { fill: #7FDBFF !important; }
-    .fill-teal { fill: #39CCCC !important; }
-    .fill-olive { fill: #3D9970 !important; }
-    .fill-green { fill: #2ECC40 !important; }
-    .fill-lime { fill: #01FF70 !important; }
-    .fill-yellow { fill: #FFDC00 !important; }
-    .fill-orange { fill: #FF851B !important; }
-    .fill-red { fill: #FF4136 !important; }
-    .fill-fuchsia { fill: #F012BE !important; }
-    .fill-purple { fill: #B10DC9 !important; }
-    .fill-maroon { fill: #85144B !important; }
-    .fill-white { fill: #FFFFFF !important; }
-    .fill-gray { fill: #AAAAAA !important; }
-    .fill-silver { fill: #DDDDDD !important; }
-    .fill-black { fill: #111111 !important; }
-    /* más */
-      .fill--blanco { fill: white !important; }
-      .fill--negro { fill: black !important; }
-      .fill--rojo { fill: red !important; }
-      .fill--verde { fill: green !important; }
-      .fill--amarillo { fill: yellow !important; }
-      .fill--naranja { fill: orange !important; }
-      .fill--verdefosfo { fill: #22fd00 !important; }
-      .fill--rosa { fill: pink !important; }
-      .fill--morado { fill: purple !important; }
-      .fill--moradoclaro { fill: darkorchid !important; }
-      .fill--marron { fill: #690100 !important; }
-      .fill--rosamexicano { fill: #ce40aa !important; }
-      .fill--azul { fill: blue !important; }
-      .fill--azulfosfo { fill: #00a3f8 !important; }
-      .fill--facebook { fill: #3b5998 !important; }
-      .fill--facebookoscuro { fill: #17233d !important; }
-      .fill--azulmetalico { fill: steelblue !important; }
-      .fill--azulvibrante { fill: #33C3F0 !important; }
-      .fill--gris { fill: gray !important; }
-      .fill--grisclaro { fill: lightgray !important; }
-  
-  /* Strokes for SVG */
-    .stroke-navy { stroke: #001F3F !important; }
-    .stroke-blue { stroke: #0074D9 !important; }
-    .stroke-aqua { stroke: #7FDBFF !important; }
-    .stroke-teal { stroke: #39CCCC !important; }
-    .stroke-olive { stroke: #3D9970 !important; }
-    .stroke-green { stroke: #2ECC40 !important; }
-    .stroke-lime { stroke: #01FF70 !important; }
-    .stroke-yellow { stroke: #FFDC00 !important; }
-    .stroke-orange { stroke: #FF851B !important; }
-    .stroke-red { stroke: #FF4136 !important; }
-    .stroke-fuchsia { stroke: #F012BE !important; }
-    .stroke-purple { stroke: #B10DC9 !important; }
-    .stroke-maroon { stroke: #85144B !important; }
-    .stroke-white { stroke: #FFFFFF !important; }
-    .stroke-gray { stroke: #AAAAAA !important; }
-    .stroke-silver { stroke: #DDDDDD !important; }
-    .stroke-black { stroke: #111111 !important; }
-    /* más */
-      .stroke-blanco { stroke: white !important; }
-      .stroke-negro { stroke: black !important; }
-      .stroke-rojo { stroke: red !important; }
-      .stroke-verde { stroke: green !important; }
-      .stroke-amarillo { stroke: yellow !important; }
-      .stroke-naranja { stroke: orange !important; }
-      .stroke-verdefosfo { stroke: #22fd00 !important; }
-      .stroke-rosa { stroke: pink !important; }
-      .stroke-morado { stroke: purple !important; }
-      .stroke-moradoclaro { stroke: darkorchid !important; }
-      .stroke-marron { stroke: #690100 !important; }
-      .stroke-rosamexicano { stroke: #ce40aa !important; }
-      .stroke-azul { stroke: blue !important; }
-      .stroke-azulfosfo { stroke: #00a3f8 !important; }
-      .stroke-facebook { stroke: #3b5998 !important; }
-      .stroke-facebookoscuro { stroke: #17233d !important; }
-      .stroke-azulmetalico { stroke: steelblue !important; }
-      .stroke-azulvibrante { stroke: #33C3F0 !important; }
-      .stroke-gris { stroke: gray !important; }
-      .stroke-grisclaro { stroke: lightgray !important; }
-
 /* Tamaño de fuente */
 
   small {
@@ -647,14 +447,6 @@
   .x0-85  { font-size: 0.85rem; }
   .x0-9   { font-size: 0.9rem; }
   .x0-95  { font-size: 0.95rem; }
-
-/* Fuentes */
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i');
-  @import url('https://fonts.googleapis.com/css?family=Courgette');
-  @import url('https://fonts.googleapis.com/css?family=Raleway');
-  .letra-open-sans {font-family: 'Open Sans', sans-serif;}
-  .letra-courgette {font-family: "Courgette", Arial, sans-serif;}
-  .letra-raleway {font-family: "Raleway", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;}
   
 /* Shadow box */
   
@@ -1076,6 +868,47 @@
   .border-light     { border-color: #f8f9fa !important; }
   .border-dark      { border-color: #343a40 !important; }
   .border-white     { border-color: #fff !important; }
+  
+  /* Border colors */
+    .border--navy { border-color: #001F3F !important; }
+    .border--blue { border-color: #0074D9 !important; }
+    .border--aqua { border-color: #7FDBFF !important; }
+    .border--teal { border-color: #39CCCC !important; }
+    .border--olive { border-color: #3D9970 !important; }
+    .border--green { border-color: #2ECC40 !important; }
+    .border--lime { border-color: #01FF70 !important; }
+    .border--yellow { border-color: #FFDC00 !important; }
+    .border--orange { border-color: #FF851B !important; }
+    .border--red { border-color: #FF4136 !important; }
+    .border--fuchsia { border-color: #F012BE !important; }
+    .border--purple { border-color: #B10DC9 !important; }
+    .border--maroon { border-color: #85144B !important; }
+    .border--white { border-color: #FFFFFF !important; }
+    .border--gray { border-color: #AAAAAA !important; }
+    .border--silver { border-color: #DDDDDD !important; }
+    .border--black { border-color: #111111 !important; }
+    /* más */
+      .border--blanco { border-color: white !important; }
+      .border--negro { border-color: black !important; }
+      .border--rojo { border-color: red !important; }
+      .border--verde { border-color: green !important; }
+      .border--amarillo { border-color: yellow !important; }
+      .border--naranja { border-color: orange !important; }
+      .border--verdefosfo { background-border: #22fd00 !important; }
+      .border--rosa { border-color: pink !important; }
+      .border--morado { border-color: purple !important; }
+      .border--moradoclaro { border-color: darkorchid !important; }
+      .border--marron { border-color: #690100 !important; }
+      .border--rosamexicano { border-color: #ce40aa !important; }
+      .border--azul { border-color: blue !important; }
+      .border--azulfosfo { border-color: #00a3f8 !important; }
+      .border--facebook { border-color: #3b5998 !important; }
+      .border--facebookoscuro { border-color: #17233d !important; }
+      .border--azulmetalico { border-color: steelblue !important; }
+      .border--azulvibrante { border-color: #33C3F0 !important; }
+      .border--gris { border-color: gray !important; }
+      .border--grisclaro { border-color: lightgray !important; }
+      
   .rounded          { border-radius: 0.25rem !important; }
   .rounded-circle   { border-radius: 50% !important; }
   .rounded-0        { border-radius: 0 !important; }
@@ -1095,6 +928,166 @@
     border-top-left-radius: 0.25rem !important;
     border-bottom-left-radius: 0.25rem !important;
   }
+  
+/* colors */
+  /*Créditos http://clrs.cc/*/
+  /* Backgrounds */
+    .bg-navy { background-color: #001F3F !important; }
+    .bg-blue { background-color: #0074D9 !important; }
+    .bg-aqua { background-color: #7FDBFF !important; }
+    .bg-teal { background-color: #39CCCC !important; }
+    .bg-olive { background-color: #3D9970 !important; }
+    .bg-green { background-color: #2ECC40 !important; }
+    .bg-lime { background-color: #01FF70 !important; }
+    .bg-yellow { background-color: #FFDC00 !important; }
+    .bg-orange { background-color: #FF851B !important; }
+    .bg-red { background-color: #FF4136 !important; }
+    .bg-fuchsia { background-color: #F012BE !important; }
+    .bg-purple { background-color: #B10DC9 !important; }
+    .bg-maroon { background-color: #85144B !important; }
+    .bg-white { background-color: #FFFFFF !important; }
+    .bg-gray { background-color: #AAAAAA !important; }
+    .bg-silver { background-color: #DDDDDD !important; }
+    .bg-black { background-color: #111111 !important; }
+    /* más */
+      .bg-blanco { background-color: white !important; }
+      .bg-negro { background-color: black !important; }
+      .bg-rojo { background-color: red !important; }
+      .bg-verde { background-color: green !important; }
+      .bg-amarillo { background-color: yellow !important; }
+      .bg-naranja { background-color: orange !important; }
+      .bg-verdefosfo { background-color: #22fd00 !important; }
+      .bg-rosa { background-color: pink !important; }
+      .bg-morado { background-color: purple !important; }
+      .bg-moradoclaro { background-color: darkorchid !important; }
+      .bg-marron { background-color: #690100 !important; }
+      .bg-rosamexicano { background-color: #ce40aa !important; }
+      .bg-azul { background-color: blue !important; }
+      .bg-azulfosfo { background-color: #00a3f8 !important; }
+      .bg-facebook { background-color: #3b5998 !important; }
+      .bg-facebook-oscuro {background-color: #17233d !important; }
+      .bg-azulmetalico { background-color: steelblue !important; }
+      .bg-azulvibrante { background-color: #33C3F0 !important; }
+      .bg-gris { background-color: gray !important; }
+      .bg-grisclaro { background-color: lightgray !important; }
+  
+  /* Colors */
+    .text-navy { color: #001F3F !important; }
+    .text-blue { color: #0074D9 !important; }
+    .text-aqua { color: #7FDBFF !important; }
+    .text-teal { color: #39CCCC !important; }
+    .text-olive { color: #3D9970 !important; }
+    .text-green { color: #2ECC40 !important; }
+    .text-lime { color: #01FF70 !important; }
+    .text-yellow { color: #FFDC00 !important; }
+    .text-orange { color: #FF851B !important; }
+    .text-red { color: #FF4136 !important; }
+    .text-fuchsia { color: #F012BE !important; }
+    .text-purple { color: #B10DC9 !important; }
+    .text-maroon { color: #85144B !important; }
+    .text-white { color: #FFFFFF !important; }
+    .text-silver { color: #DDDDDD !important; }
+    .text-gray { color: #AAAAAA !important; }
+    .text-black { color: #111111 !important; }
+    /* más */
+      .text-rojo { color: red !important; } 
+      .text-verde { color: green !important; } 
+      .text-amarillo { color: yellow !important; } 
+      .text-naranja { color: orange !important; } 
+      .text-verdefosfo { color: #22fd00 !important; }
+      .text-rosa { color: pink !important; } 
+      .text-morado { color: purple !important; } 
+      .text-moradoclaro { color: darkorchid !important; }
+      .text-marron { color: #690100 !important; } 
+      .text-rosamexicano { color: #ce40aa !important; }
+      .text-azul { color: blue !important; } 
+      .text-azulfosfo { color: #00a3f8 !important; }
+      .text-facebook { color: #3b5998 !important; }
+      .text-facebookoscuro { color: #17233d !important; }
+      .text-azulmetalico { color: steelblue !important; }
+      .text-azulvibrante { color: #33C3F0 !important; }
+      .text-gris { color: gray !important; } 
+      .text-grisclaro { color: lightgray !important; }
+  
+  /* Fills for SVG */
+    .fill-navy { fill: #001F3F !important; }
+    .fill-blue { fill: #0074D9 !important; }
+    .fill-aqua { fill: #7FDBFF !important; }
+    .fill-teal { fill: #39CCCC !important; }
+    .fill-olive { fill: #3D9970 !important; }
+    .fill-green { fill: #2ECC40 !important; }
+    .fill-lime { fill: #01FF70 !important; }
+    .fill-yellow { fill: #FFDC00 !important; }
+    .fill-orange { fill: #FF851B !important; }
+    .fill-red { fill: #FF4136 !important; }
+    .fill-fuchsia { fill: #F012BE !important; }
+    .fill-purple { fill: #B10DC9 !important; }
+    .fill-maroon { fill: #85144B !important; }
+    .fill-white { fill: #FFFFFF !important; }
+    .fill-gray { fill: #AAAAAA !important; }
+    .fill-silver { fill: #DDDDDD !important; }
+    .fill-black { fill: #111111 !important; }
+    /* más */
+      .fill--blanco { fill: white !important; }
+      .fill--negro { fill: black !important; }
+      .fill--rojo { fill: red !important; }
+      .fill--verde { fill: green !important; }
+      .fill--amarillo { fill: yellow !important; }
+      .fill--naranja { fill: orange !important; }
+      .fill--verdefosfo { fill: #22fd00 !important; }
+      .fill--rosa { fill: pink !important; }
+      .fill--morado { fill: purple !important; }
+      .fill--moradoclaro { fill: darkorchid !important; }
+      .fill--marron { fill: #690100 !important; }
+      .fill--rosamexicano { fill: #ce40aa !important; }
+      .fill--azul { fill: blue !important; }
+      .fill--azulfosfo { fill: #00a3f8 !important; }
+      .fill--facebook { fill: #3b5998 !important; }
+      .fill--facebookoscuro { fill: #17233d !important; }
+      .fill--azulmetalico { fill: steelblue !important; }
+      .fill--azulvibrante { fill: #33C3F0 !important; }
+      .fill--gris { fill: gray !important; }
+      .fill--grisclaro { fill: lightgray !important; }
+  
+  /* Strokes for SVG */
+    .stroke-navy { stroke: #001F3F !important; }
+    .stroke-blue { stroke: #0074D9 !important; }
+    .stroke-aqua { stroke: #7FDBFF !important; }
+    .stroke-teal { stroke: #39CCCC !important; }
+    .stroke-olive { stroke: #3D9970 !important; }
+    .stroke-green { stroke: #2ECC40 !important; }
+    .stroke-lime { stroke: #01FF70 !important; }
+    .stroke-yellow { stroke: #FFDC00 !important; }
+    .stroke-orange { stroke: #FF851B !important; }
+    .stroke-red { stroke: #FF4136 !important; }
+    .stroke-fuchsia { stroke: #F012BE !important; }
+    .stroke-purple { stroke: #B10DC9 !important; }
+    .stroke-maroon { stroke: #85144B !important; }
+    .stroke-white { stroke: #FFFFFF !important; }
+    .stroke-gray { stroke: #AAAAAA !important; }
+    .stroke-silver { stroke: #DDDDDD !important; }
+    .stroke-black { stroke: #111111 !important; }
+    /* más */
+      .stroke-blanco { stroke: white !important; }
+      .stroke-negro { stroke: black !important; }
+      .stroke-rojo { stroke: red !important; }
+      .stroke-verde { stroke: green !important; }
+      .stroke-amarillo { stroke: yellow !important; }
+      .stroke-naranja { stroke: orange !important; }
+      .stroke-verdefosfo { stroke: #22fd00 !important; }
+      .stroke-rosa { stroke: pink !important; }
+      .stroke-morado { stroke: purple !important; }
+      .stroke-moradoclaro { stroke: darkorchid !important; }
+      .stroke-marron { stroke: #690100 !important; }
+      .stroke-rosamexicano { stroke: #ce40aa !important; }
+      .stroke-azul { stroke: blue !important; }
+      .stroke-azulfosfo { stroke: #00a3f8 !important; }
+      .stroke-facebook { stroke: #3b5998 !important; }
+      .stroke-facebookoscuro { stroke: #17233d !important; }
+      .stroke-azulmetalico { stroke: steelblue !important; }
+      .stroke-azulvibrante { stroke: #33C3F0 !important; }
+      .stroke-gris { stroke: gray !important; }
+      .stroke-grisclaro { stroke: lightgray !important; }
   
 /* Márgenes */
   
